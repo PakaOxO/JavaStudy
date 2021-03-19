@@ -4,4 +4,5 @@
 2. Inheritance(惑加) : 21.2.20 ~ 21.2.28
 3. Exception(抗寇贸府) : 21.2.28 ~ 21.3.6
 4. Calendar按眉 : 21.3.6 ~ 21.3.8
-5. Collection按眉 : 21.3.8 ~ 
+5. Collection按眉 : 21.3.8 ~ 21.3.18
+6. Generics : 21.3.19 ~ 
